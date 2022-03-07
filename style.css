@@ -1,0 +1,25 @@
+h1{
+    color: rgb(42, 104, 129);
+}
+
+.aboutName h1 {
+    color: black;
+    padding-left: 850px;
+}
+
+.header {
+    background-color: orange;
+    display: flex;
+    justify-content: space-between;
+}
+
+.juegos {
+    background-color: rgb(151, 103, 14);
+    display: flex;
+    justify-content: space-between;
+}
+
+.redes{
+    display: flex;
+    justify-content: end;
+}
